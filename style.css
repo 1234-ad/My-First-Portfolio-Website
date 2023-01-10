@@ -1,0 +1,29 @@
+body {
+    background-color: mediumspringgreen;
+  }
+
+  h1 {
+    color: mediumseagreen;
+  }
+
+  h2 {
+    color: mediumaquamarine;
+  }
+
+  h3 {
+    color: mediumblue;
+  }
+
+  h4 {
+    color: mediumturquoise;
+  }
+
+  hr {
+    background-color: white;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    height: 0px;
+    width: 5%;
+  }
